@@ -1,1 +1,1 @@
-# you should install https://github.com/VundleVim/Vundle.vim firstly
+you should install https://github.com/VundleVim/Vundle.vim firstly
